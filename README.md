@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lugentil
+- 👀 I’m interested in DEVOPS
+- 🌱 I’m currently learning influxDB
